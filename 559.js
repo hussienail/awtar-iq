@@ -16,20 +16,17 @@ $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none
 $(".ae.label.label-primary.fa.fa-gear").text(' ضبط '); 
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
-$(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3">   ● · مع تمنياتنا للجميع بـ أطيب الاوقات <font color="#595757" class="jfa99">قريبا</font>  ● · ‫أفضل أدارية لهذا الأسبوع · ● <font class="jfa99" color="#727A54">&nbsp;قريبا &nbsp;</font> ● · مبدعة الحائط لهذا الأسبوع · ● <font class="jfa88" color="#ff9900">&nbsp; قريبا  &nbsp;</font> ● · مبدع الحائط لهذا الأسبوع · ● <font class="jfa88" color="#ff00ff">&nbsp; قريبا  &nbsp;</font> ● · ‫أفضل زائرة لهذا الأسبوع · ●<font class="jfa88" color="#5CAD9A">&nbsp; قريبا &nbsp;</font> ● · ‫أفضل زائر لهذا الأسبوع · ● <font class="jfa88" color="#800000">&nbsp; قريبا &nbsp;</font> ● · ‫أفضل سوبره لهذا الأسبوع · ● <font class="jfa88" color="#417570">&nbsp; نــجـمـه الـحـب &nbsp;</font> أهلا وسهلا بكم في شات </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
+$(`<center><div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> &nbsp;أهلا وسهلا بكم في شات <font color="#595757" class="asim12">نـجـمـه الـحـب </font> ● · ‫أفضل سوبر لهذا الأسبوع · ● <font class="asim11" color="#727A54">&nbsp; قريبا &nbsp;</font> ● · ‫أفضل زائر لهذا الأسبوع · ● <font class="asim11" color="#ff9900">&nbsp;قريبا&nbsp;</font> ● · ‫أفضل زائرة لهذا الأسبوع · ● <font class="asim11" color="#ff00ff">&nbsp;قريبا&nbsp;</font> ● · مبدع الحائط لهذا الأسبوع · ● <font class="asim11" color="#5CAD9A">&nbsp; قريبا &nbsp;</font> ● · مبدعة الحائط لهذا الأسبوع · ● <font class="asim11" color="#800000">&nbsp; قريبا &nbsp;</font> ● · ‫أفضل تواجد لهذا الأسبوع · ● <font class="asim11" color="#417570">&nbsp; قريبا &nbsp;</font> ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;
 $(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/33.css"></style>`).insertBefore("body")
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
 
 $(".dpnl").css('width','310px'); 
-$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "ط§ظ‡ظ„ط§ ظˆط³ظ‡ظ„ط§ ط¨ظƒظ… ظپظٹ ط´ط§طھ ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ„ط¬ظˆط§ظ„ â‌¤ï¸ڈ ط³ط¬ظ„ ط¹ط¶ظˆظٹط© طھط­طµظ„ ط¹ظ„ظ‰ 1000 ظ„ط§ظٹظƒ ظˆط²ط®ط±ظپط© :: ط·ط±ظٹظ‚ط© ط§ظ„طھط³ط¬ظٹظ„ ط§ط¶ط؛ط· ط¹ظ„ظ‰ ط®ظٹط§ط± (طھظ€ط³ط¬ظٹظ€ظ„ ) (ط§ظƒطھط¨ ط§ط³ظ…ظƒ ط§ظ„ظ…ط³طھط¹ط§ط± + ظƒظ„ظ…ط© ط§ظ„ظ…ط±ظˆط± ) ظˆط¨ط¹ط¯ظ‡ط§ ط§ط¶ط؛ط· ط¯ط®ظˆظ„" ); 
+$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "أهلا وسهلا بكم في شات نجمه الحب سجل عضويه معنا لتحصل على 3000 لايك وزخرفه وهديه ونتمنى لكم اجمل لوقات ،، كل عام وانت بخير وسنه خير على جميع 2021" ); 
 });
 $ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">- ظ…ظ†ظ€ظ€ظˆط±ظٹظ†ظژ ط¬ظ…ظٹط¹ط§ظ‹ : ط´ط¢طھ ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ„ط¬ظˆط§ظ„ -</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
 ` ). insertBefore ( '#d2' );
 $(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span>ط§ط¯ط§ط±ط© ط¨ظٹط§ظ†ط§طھ ط§ظ„ظ…ظˆط§ظ‚ط¹</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');
-$('.u-msg.dots').removeClass('dots');
-Tsend_=Tsend;reqlikes=5;Tsend=function(){if(getuser(myid).rep<reqlikes){alert('ظ„ط¥ ظٹظ…ظƒظ†ظƒ ط§ظ„ظƒطھط§ط¨ط© ط¨ط§ظ„ط¹ط§ظ… ظٹطھط·ظ„ط¨ ظ…ظ†ظƒ ط§ظ„ط­طµظˆظ„ ط¹ظ„ظ‰ ظ„ط§ظٹظƒط§طھ'+reqlikes+' ');return;}else{Tsend_();}}
-setprofile_=setprofile;reqlikes=5;setprofile=function(){if(getuser(myid).rep<reqlikes){alert('ظ„ط§ ظٹظ…ظƒظ†ظƒ ط­ظپط¸ ط§ظ„ط£ط¹ط¯ط§ط¯ط§طھ ظٹطھط·ظ„ط¨ ظ…ظ†ظƒ ط§ظ„ط­طµظˆظ„ ط¹ظ„ظ‰ ظ„ط§ظٹظƒط§طھ '+reqlikes+'');return;}else{setprofile_();}}
 $(".ubnr").remove();
 
 $("div#tlogins button.btn.btn-primary")
