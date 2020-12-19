@@ -17,7 +17,7 @@ $(".ae.label.label-primary.fa.fa-gear").text(' 7');
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
 $(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> 8 <font color="#595757" class="jfa99">9</font> 10 <font class="jfa99" color="#727A54">&nbsp;11 &nbsp;</font> 12 <font class="jfa88" color="#ff9900">&nbsp; 13 &nbsp;</font> 14 <font class="jfa88" color="#ff00ff">&nbsp; 15 &nbsp;</font> 16<font class="jfa88" color="#5CAD9A">&nbsp; 18 &nbsp;</font> 17 <font class="jfa88" color="#800000">&nbsp; 21 &nbsp;</font> 19 <font class="jfa88" color="#417570">&nbsp; 22 &nbsp;</font> 20 nbsp; </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'); 
-$(`<link rel="stylesheet" href="https://alhaded-com.000webhostapp.com/Master/master.css"></style>`).insertBefore("body")
+$(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/33.css"></style>`).insertBefore("body")
 $(".dpnl").css('width','310px'); 
 $( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "6" ); 
 });
