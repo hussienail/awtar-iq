@@ -22,6 +22,11 @@ $(".dpnl").css('width','310px');
 });
 $ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample"> اهلا وسهلا بكم في شات نجمه الحب سجل عضويه وتحصل على زخرفه وهديه ولايكات 3000</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
 ` ). insertBefore ( '#d2' );
+$(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span>ط§ط¯ط§ط±ط© ط¨ظٹط§ظ†ط§طھ ط§ظ„ظ…ظˆط§ظ‚ط¹</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');
+$('.u-msg.dots').removeClass('dots');
+Tsend_=Tsend;reqlikes=5;Tsend=function(){if(getuser(myid).rep<reqlikes){alert('ظ„ط¥ ظٹظ…ظƒظ†ظƒ ط§ظ„ظƒطھط§ط¨ط© ط¨ط§ظ„ط¹ط§ظ… ظٹطھط·ظ„ط¨ ظ…ظ†ظƒ ط§ظ„ط­طµظˆظ„ ط¹ظ„ظ‰ ظ„ط§ظٹظƒط§طھ'+reqlikes+' ');return;}else{Tsend_();}}
+setprofile_=setprofile;reqlikes=5;setprofile=function(){if(getuser(myid).rep<reqlikes){alert('ظ„ط§ ظٹظ…ظƒظ†ظƒ ط­ظپط¸ ط§ظ„ط£ط¹ط¯ط§ط¯ط§طھ ظٹطھط·ظ„ط¨ ظ…ظ†ظƒ ط§ظ„ط­طµظˆظ„ ط¹ظ„ظ‰ ظ„ط§ظٹظƒط§طھ '+reqlikes+'');return;}else{setprofile_();}}
+$(".ubnr").remove();
 
 $("div#tlogins button.btn.btn-primary")
     .click(function () {
