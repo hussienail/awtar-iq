@@ -13,15 +13,14 @@ $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none
 <a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">الأبراج</a>
 <a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">وظائف</a>
 `).insertBefore(".nav-tabs")
-$(".ae.label.label-primary.fa.fa-gear").text(' 7'); 
+$(".ae.label.label-primary.fa.fa-gear").text(' ضبط '); 
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
 $(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3">   ● · مع تمنياتنا للجميع بـ أطيب الاوقات <font color="#595757" class="jfa99">قريبا</font>  ● · ‫أفضل أدارية لهذا الأسبوع · ● <font class="jfa99" color="#727A54">&nbsp;قريبا &nbsp;</font> ● · مبدعة الحائط لهذا الأسبوع · ● <font class="jfa88" color="#ff9900">&nbsp; قريبا  &nbsp;</font> ● · مبدع الحائط لهذا الأسبوع · ● <font class="jfa88" color="#ff00ff">&nbsp; قريبا  &nbsp;</font> ● · ‫أفضل زائرة لهذا الأسبوع · ●<font class="jfa88" color="#5CAD9A">&nbsp; قريبا &nbsp;</font> ● · ‫أفضل زائر لهذا الأسبوع · ● <font class="jfa88" color="#800000">&nbsp; قريبا &nbsp;</font> ● · ‫أفضل سوبره لهذا الأسبوع · ● <font class="jfa88" color="#417570">&nbsp; نــجـمـه الـحـب &nbsp;</font> أهلا وسهلا بكم في شات </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
 $(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/33.css"></style>`).insertBefore("body")
 $(".dpnl").css('width','310px'); 
-$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "6" ); 
 });
-$ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">6</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
+$ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample"> اهلا وسهلا بكم في شات نجمه الحب سجل عضويه وتحصل على زخرفه وهديه ولايكات 3000</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
 ` ). insertBefore ( '#d2' );
 
 $("div#tlogins button.btn.btn-primary")
@@ -44,7 +43,7 @@ $("div#tlogins button.btn.btn-primary")
         0 < a.length && a.remove()
     }, 0), $(".dpnl")
     .append(` <div id="mic" style="height: 100%;width:100%;" class="break light tab-pane border"><center></div><center></div>`), $('#d0')
-    .append(`<label title="صاحب الموقع"href="#"onclick="$('https://i.ibb.co/7y9d97H/09.jpg').text($(this).attr('title'));
+    .append(`<label title="صاحب الموقع"href="#"onclick="$('.pnhead').text($(this).attr('title'));
 hl($(this),'primary');
 setTimeout(function()
 	{
@@ -59,4 +58,4 @@ margin-left: 2px;text-align: center;float: right;border-radius: 5px;
 padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" 2</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
 AddMsg_=AddMsg;AddMsg=function(wid,data){data.msg=data.msg.replace(/\u102C/g,"");return AddMsg_(wid,data);}
 
-$('.fr.borderg a').text(' 1 ')
+$('.fr.borderg a').text(' Programmed by dook mobile  ')
