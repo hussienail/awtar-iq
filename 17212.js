@@ -18,10 +18,9 @@ $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
 $(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> &nbsp;1 <font color="#595757" class="jfa99">2</font> 3 <font class="jfa99" color="#727A54">&nbsp;4 &nbsp;</font> 5 <font class="jfa88" color="#ff9900">&nbsp;6 &nbsp;</font> 7 <font class="jfa88" color="#ff00ff">&nbsp; 8 &nbsp;</font> 9 <font class="jfa88" color="#5CAD9A">&nbsp; 10 &nbsp;</font> 11 <font class="jfa88" color="#800000">&nbsp; 12 &nbsp;</font> 13 <font class="jfa88" color="#417570">&nbsp; 14 &nbsp;</font>15 &nbsp; </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'); 
 $(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/33.css"></style>`).insertBefore("body")
-
 $(".dpnl").css('width','310px'); 
-$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "اهلا وسهلا بكم في شات نجمه الحب سجل معنا عضويه لتحصل على لايكات ولدايه وزخرفه وحفظ بروفايلك وكل عام وانتم بخير سنه سعيده عليكم 2021" ); 
-); 
+$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "ط§ظ‡ظ„ط§ ظˆط³ظ‡ظ„ط§ ط¨ظƒظ… ظپظٹ ط´ط§طھ ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ„ط¬ظˆط§ظ„ â‌¤ï¸ڈ ط³ط¬ظ„ ط¹ط¶ظˆظٹط© طھط­طµظ„ ط¹ظ„ظ‰ 1000 ظ„ط§ظٹظƒ ظˆط²ط®ط±ظپط© :: ط·ط±ظٹظ‚ط© ط§ظ„طھط³ط¬ظٹظ„ ط§ط¶ط؛ط· ط¹ظ„ظ‰ ط®ظٹط§ط± (طھظ€ط³ط¬ظٹظ€ظ„ ) (ط§ظƒطھط¨ ط§ط³ظ…ظƒ ط§ظ„ظ…ط³طھط¹ط§ط± + ظƒظ„ظ…ط© ط§ظ„ظ…ط±ظˆط± ) ظˆط¨ط¹ط¯ظ‡ط§ ط§ط¶ط؛ط· ط¯ط®ظˆظ„" ); 
+});
 $ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">- ظ…ظ†ظ€ظ€ظˆط±ظٹظ†ظژ ط¬ظ…ظٹط¹ط§ظ‹ : ط´ط¢طھ ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ„ط¬ظˆط§ظ„ -</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
 ` ). insertBefore ( '#d2' );
 $(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span>ط§ط¯ط§ط±ط© ط¨ظٹط§ظ†ط§طھ ط§ظ„ظ…ظˆط§ظ‚ط¹</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');
