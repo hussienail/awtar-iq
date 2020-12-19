@@ -19,7 +19,7 @@ $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id=
 $(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> &nbsp;1 <font color="#595757" class="jfa99">2</font> 3 <font class="jfa99" color="#727A54">&nbsp;4 &nbsp;</font> 5 <font class="jfa88" color="#ff9900">&nbsp;6 &nbsp;</font> 7 <font class="jfa88" color="#ff00ff">&nbsp; 8 &nbsp;</font> 9 <font class="jfa88" color="#5CAD9A">&nbsp; 10 &nbsp;</font> 11 <font class="jfa88" color="#800000">&nbsp; 12 &nbsp;</font> 13 <font class="jfa88" color="#417570">&nbsp; 14 &nbsp;</font>15 &nbsp; </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'); 
 $(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/33.css"></style>`).insertBefore("body")
 $(".dpnl").css('width','310px'); 
-$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "ط§ظ‡ظ„ط§ ظˆط³ظ‡ظ„ط§ ط¨ظƒظ… ظپظٹ ط´ط§طھ ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ„ط¬ظˆط§ظ„ â‌¤ï¸ڈ ط³ط¬ظ„ ط¹ط¶ظˆظٹط© طھط­طµظ„ ط¹ظ„ظ‰ 1000 ظ„ط§ظٹظƒ ظˆط²ط®ط±ظپط© :: ط·ط±ظٹظ‚ط© ط§ظ„طھط³ط¬ظٹظ„ ط§ط¶ط؛ط· ط¹ظ„ظ‰ ط®ظٹط§ط± (طھظ€ط³ط¬ظٹظ€ظ„ ) (ط§ظƒطھط¨ ط§ط³ظ…ظƒ ط§ظ„ظ…ط³طھط¹ط§ط± + ظƒظ„ظ…ط© ط§ظ„ظ…ط±ظˆط± ) ظˆط¨ط¹ط¯ظ‡ط§ ط§ط¶ط؛ط· ط¯ط®ظˆظ„" ); 
+$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "اهلا وسهلا بكم في شات نجمه الحب سجل معنا عضويه لتحصل على لايكات ولدايه وزخرفه وحفظ بروفايلك وكل عام وانتم بخير سنه سعيده عليكم 2021" ); 
 });
 $ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">- ظ…ظ†ظ€ظ€ظˆط±ظٹظ†ظژ ط¬ظ…ظٹط¹ط§ظ‹ : ط´ط¢طھ ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ„ط¬ظˆط§ظ„ -</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
 ` ). insertBefore ( '#d2' );
@@ -49,7 +49,7 @@ $("div#tlogins button.btn.btn-primary")
         0 < a.length && a.remove()
     }, 0), $(".dpnl")
     .append(` <div id="mic" style="height: 100%;width:100%;" class="break light tab-pane border"><center></div><center></div>`), $('#d0')
-    .append(`<label title="Omar  - Ranea"href="#"onclick="$('.pnhead').text($(this).attr('title'));
+    .append(`<label title="صاحب الموقع"href="#"onclick="$('.pnhead').text($(this).attr('title'));
 hl($(this),'primary');
 setTimeout(function()
 	{
@@ -58,10 +58,10 @@ setTimeout(function()
 ,0);
 $('.dpnl').show();
 "data-toggle="tab"data-target="#mic"class="ae fa label label-primary fa-volume-up">&nbsp;</label>`);
-$(`<!--<a class="fl fa fa-image btn ui-corner-all ui-shadow ui-btn ui-btn-inline borderg" style="color:purple;margin:2px;width: 106px;text-align: center;font-size:15px!important;"><span dir="rtl"> (0) </span><span style="font-size: 15px!important;>ط¹ظ…ط± ط§ظ„ط­ط¯ظٹط¯ </span></a>-->
+$(`<!--<a class="fl fa fa-image btn ui-corner-all ui-shadow ui-btn ui-btn-inline borderg" style="color:purple;margin:2px;width: 106px;text-align: center;font-size:15px!important;"><span dir="rtl"> (0) </span><span style="font-size: 15px!important;>3 </span></a>-->
 <a href="" target="_blank" style="width:107px; margin-right: 5px;
 margin-left: 2px;text-align: center;float: right;border-radius: 5px;
-padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" >طھطµظ…ظٹظ…:  ط¹ظ…ط± ط§ظ„ط­ط¯ظٹط¯</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
+padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" 1 </a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
 AddMsg_=AddMsg;AddMsg=function(wid,data){data.msg=data.msg.replace(/\u102C/g,"");return AddMsg_(wid,data);}
 
-$('.fr.borderg a').text(' ط¹ظ…ط± ط§ظ„ط­ط¯ظٹط¯ ')
+$('.fr.borderg a').text(' 2 ')
