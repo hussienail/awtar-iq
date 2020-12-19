@@ -3,20 +3,20 @@ if(location.protocol!='https:'){location.protocol='https:';}
 $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/1608395367465.jpg
 " >
 <a id="jfa44"target="_blank"type="a"rel="nofollow"href=""class="label-primary">1 </a></div></div><center> <a id="asim99" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a>
-</div></div> <div id="asim1"><a id="asim2"target="_blank"type="a"href="rules.html"style="border-radius: 0 10% 0 0; border-right: 2px solid#a6a6a6;"class="btn minix btn-primary">2</a>
-<a id="asim2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa;"class="btn minix btn-primary">3</a>
-<a id="asim10"target="_blank"type="a"href=""style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa"class="btn minix btn-primary">4</a>
-<a id="asim10"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">5</a>
-<a id="asim10"target="_blank"type="a"href=" "style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">6</a>
-<a id="asim10"target="_blank"type="a""style="border-radius: 0 0 0 10%; border-left: 2px solid#a6a6a6; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">7</a>
+</div></div> <div id="asim1"><a id="asim2"target="_blank"type="a"href="rules.html"style="border-radius: 0 10% 0 0; border-right: 2px solid#a6a6a6;"class="btn minix btn-primary">القوانين</a>
+<a id="asim2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa;"class="btn minix btn-primary">الاشتراكات</a>
+<a id="asim10"target="_blank"type="a"href=""style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa"class="btn minix btn-primary">اتصل بنا</a>
+<a id="asim10"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">الراديو</a>
+<a id="asim10"target="_blank"type="a"href=" "style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">تطبيق</a>
+<a id="asim10"target="_blank"type="a""style="border-radius: 0 0 0 10%; border-left: 2px solid#a6a6a6; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">ختصارات</a>
 <a id="hack2"target="_blank"type="a"href=""style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa"class="btn minix btn-primary">8</a>
-<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">9</a>
-<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">9</a>
+<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">الأبراج</a>
+<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">وظائف</a>
 `).insertBefore(".nav-tabs")
 $(".ae.label.label-primary.fa.fa-gear").text(' 7'); 
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
-$(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> 8 <font color="#595757" class="jfa99">9</font> 10 <font class="jfa99" color="#727A54">&nbsp;11 &nbsp;</font> 12 <font class="jfa88" color="#ff9900">&nbsp; 13 &nbsp;</font> 14 <font class="jfa88" color="#ff00ff">&nbsp; 15 &nbsp;</font> 16<font class="jfa88" color="#5CAD9A">&nbsp; 18 &nbsp;</font> 17 <font class="jfa88" color="#800000">&nbsp; 21 &nbsp;</font> 19 <font class="jfa88" color="#417570">&nbsp; 22 &nbsp;</font> 20 nbsp; </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'); 
+$(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3">   ● · مع تمنياتنا للجميع بـ أطيب الاوقات <font color="#595757" class="jfa99">قريبا</font>  ● · ‫أفضل أدارية لهذا الأسبوع · ● <font class="jfa99" color="#727A54">&nbsp;قريبا &nbsp;</font> ● · مبدعة الحائط لهذا الأسبوع · ● <font class="jfa88" color="#ff9900">&nbsp; قريبا  &nbsp;</font> ● · مبدع الحائط لهذا الأسبوع · ● <font class="jfa88" color="#ff00ff">&nbsp; قريبا  &nbsp;</font> ● · ‫أفضل زائرة لهذا الأسبوع · ●<font class="jfa88" color="#5CAD9A">&nbsp; قريبا &nbsp;</font> ● · ‫أفضل زائر لهذا الأسبوع · ● <font class="jfa88" color="#800000">&nbsp; قريبا &nbsp;</font> ● · ‫أفضل سوبره لهذا الأسبوع · ● <font class="jfa88" color="#417570">&nbsp; نــجـمـه الـحـب &nbsp;</font> أهلا وسهلا بكم في شات </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
 $(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/33.css"></style>`).insertBefore("body")
 $(".dpnl").css('width','310px'); 
 $( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "6" ); 
@@ -49,9 +49,9 @@ $("div#tlogins button.btn.btn-primary")
         0 < a.length && a.remove()
     }, 0), $(".dpnl")
     .append(` <div id="mic" style="height: 100%;width:100%;" class="break light tab-pane border"><center></div><center></div>`), $('#d0')
-    .append(`<label title="Omar  - Ranea"href="#"onclick="$('.pnhead').text($(this).attr('title'));
+    .append(`<label title="صاحب الموقع"href="#"onclick="$('.pnhead').text($(this).attr('title'));
 hl($(this),'primary');
-setTimeout(function()
+setTimeout(function(https://i.ibb.co/7y9d97H/09.jpg)
 	{
 	$('#mic').scrollTop(0);
 }
