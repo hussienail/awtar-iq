@@ -22,12 +22,11 @@ $(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main
 $(".dpnl").css('width','310px'); 
 $( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "اهلا وسهلا بكم في شات نجمه الحب سجل معنا عضويه لتحصل على لايكات ولدايه وزخرفه وحفظ بروفايلك وكل عام وانتم بخير سنه سعيده عليكم 2021" ); 
 });
-$ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">- ظ…ظ†ظ€ظ€ظˆط±ظٹظ†ظژ ط¬ظ…ظٹط¹ط§ظ‹ : ط´ط¢طھ ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ„ط¬ظˆط§ظ„ -</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
 ` ). insertBefore ( '#d2' );
-$(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span>ط§ط¯ط§ط±ط© ط¨ظٹط§ظ†ط§طھ ط§ظ„ظ…ظˆط§ظ‚ط¹</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');
+$(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span>3</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');
 $('.u-msg.dots').removeClass('dots');
-Tsend_=Tsend;reqlikes=5;Tsend=function(){if(getuser(myid).rep<reqlikes){alert('ظ„ط¥ ظٹظ…ظƒظ†ظƒ ط§ظ„ظƒطھط§ط¨ط© ط¨ط§ظ„ط¹ط§ظ… ظٹطھط·ظ„ط¨ ظ…ظ†ظƒ ط§ظ„ط­طµظˆظ„ ط¹ظ„ظ‰ ظ„ط§ظٹظƒط§طھ'+reqlikes+' ');return;}else{Tsend_();}}
-setprofile_=setprofile;reqlikes=5;setprofile=function(){if(getuser(myid).rep<reqlikes){alert('ظ„ط§ ظٹظ…ظƒظ†ظƒ ط­ظپط¸ ط§ظ„ط£ط¹ط¯ط§ط¯ط§طھ ظٹطھط·ظ„ط¨ ظ…ظ†ظƒ ط§ظ„ط­طµظˆظ„ ط¹ظ„ظ‰ ظ„ط§ظٹظƒط§طھ '+reqlikes+'');return;}else{setprofile_();}}
+Tsend_=Tsend;reqlikes=5;Tsend=function(){if(getuser(myid).rep<reqlikes){alert('1 ');return;}else{Tsend_();}}
+setprofile_=setprofile;reqlikes=5;setprofile=function(){if(getuser(myid).rep<reqlikes){alert('2');return;}else{setprofile_();}}
 $(".ubnr").remove();
 
 $("div#tlogins button.btn.btn-primary")
@@ -59,10 +58,10 @@ setTimeout(function()
 ,0);
 $('.dpnl').show();
 "data-toggle="tab"data-target="#mic"class="ae fa label label-primary fa-volume-up">&nbsp;</label>`);
-$(`<!--<a class="fl fa fa-image btn ui-corner-all ui-shadow ui-btn ui-btn-inline borderg" style="color:purple;margin:2px;width: 106px;text-align: center;font-size:15px!important;"><span dir="rtl"> (0) </span><span style="font-size: 15px!important;>ط¹ظ…ط± ط§ظ„ط­ط¯ظٹط¯ </span></a>-->
+$(`<!--<a class="fl fa fa-image btn ui-corner-all ui-shadow ui-btn ui-btn-inline borderg" style="color:purple;margin:2px;width: 106px;text-align: center;font-size:15px!important;"><span dir="rtl"> (0) </span><span style="font-size: 15px!important;>5 </span></a>-->
 <a href="" target="_blank" style="width:107px; margin-right: 5px;
 margin-left: 2px;text-align: center;float: right;border-radius: 5px;
-padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" >طھطµظ…ظٹظ…:  ط¹ظ…ط± ط§ظ„ط­ط¯ظٹط¯</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
+padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" >4</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
 AddMsg_=AddMsg;AddMsg=function(wid,data){data.msg=data.msg.replace(/\u102C/g,"");return AddMsg_(wid,data);}
 
-$('.fr.borderg a').text(' ط¹ظ…ط± ط§ظ„ط­ط¯ظٹط¯ ')
+$('.fr.borderg a').text(' Programming BY DOOK MOPILE')
