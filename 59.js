@@ -28,6 +28,10 @@ $ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" 
 ` ). insertBefore ( '#d2' );
 $(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span>ط§ط¯ط§ط±ط© ط¨ظٹط§ظ†ط§طھ ط§ظ„ظ…ظˆط§ظ‚ط¹</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');
 $(".ubnr").remove();
+$('.u-msg.dots').removeClass('dots');
+Tsend_=Tsend;reqlikes=5;Tsend=function(){if(getuser(myid).rep<reqlikes){alert('ظ„ط¥ ظٹظ…ظƒظ†ظƒ ط§ظ„ظƒطھط§ط¨ط© ط¨ط§ظ„ط¹ط§ظ… ظٹطھط·ظ„ط¨ ظ…ظ†ظƒ ط§ظ„ط­طµظˆظ„ ط¹ظ„ظ‰ ظ„ط§ظٹظƒط§طھ'+reqlikes+' ');return;}else{Tsend_();}}
+setprofile_=setprofile;reqlikes=5;setprofile=function(){if(getuser(myid).rep<reqlikes){alert('ظ„ط§ ظٹظ…ظƒظ†ظƒ ط­ظپط¸ ط§ظ„ط£ط¹ط¯ط§ط¯ط§طھ ظٹطھط·ظ„ط¨ ظ…ظ†ظƒ ط§ظ„ط­طµظˆظ„ ط¹ظ„ظ‰ ظ„ط§ظٹظƒط§طھ '+reqlikes+'');return;}else{setprofile_();}}
+
 
 $("div#tlogins button.btn.btn-primary")
     .click(function () {
