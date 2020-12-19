@@ -20,7 +20,7 @@ $(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseou
 $(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/33.css"></style>`).insertBefore("body")
 
 $(".dpnl").css('width','310px'); 
-$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "ط§ظ‡ظ„ط§ ظˆط³ظ‡ظ„ط§ ط¨ظƒظ… ظپظٹ ط´ط§طھ ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ„ط¬ظˆط§ظ„ â‌¤ï¸ڈ ط³ط¬ظ„ ط¹ط¶ظˆظٹط© طھط­طµظ„ ط¹ظ„ظ‰ 1000 ظ„ط§ظٹظƒ ظˆط²ط®ط±ظپط© :: ط·ط±ظٹظ‚ط© ط§ظ„طھط³ط¬ظٹظ„ ط§ط¶ط؛ط· ط¹ظ„ظ‰ ط®ظٹط§ط± (طھظ€ط³ط¬ظٹظ€ظ„ ) (ط§ظƒطھط¨ ط§ط³ظ…ظƒ ط§ظ„ظ…ط³طھط¹ط§ط± + ظƒظ„ظ…ط© ط§ظ„ظ…ط±ظˆط± ) ظˆط¨ط¹ط¯ظ‡ط§ ط§ط¶ط؛ط· ط¯ط®ظˆظ„" ); 
+$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "اهلا وسهلا بكم في شات نجمه الحب سجل معنا عضويه لتحصل على لايكات ولدايه وزخرفه وحفظ بروفايلك وكل عام وانتم بخير سنه سعيده عليكم 2021" ); 
 });
 $ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">- ظ…ظ†ظ€ظ€ظˆط±ظٹظ†ظژ ط¬ظ…ظٹط¹ط§ظ‹ : ط´ط¢طھ ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ„ط¬ظˆط§ظ„ -</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
 ` ). insertBefore ( '#d2' );
@@ -50,7 +50,7 @@ $("div#tlogins button.btn.btn-primary")
         0 < a.length && a.remove()
     }, 0), $(".dpnl")
     .append(` <div id="mic" style="height: 100%;width:100%;" class="break light tab-pane border"><center></div><center></div>`), $('#d0')
-    .append(`<label title="Omar  - Ranea"href="#"onclick="$('.pnhead').text($(this).attr('title'));
+    .append(`<label title="صاحب الموقع"href="#"onclick="$('.pnhead').text($(this).attr('title'));
 hl($(this),'primary');
 setTimeout(function()
 	{
