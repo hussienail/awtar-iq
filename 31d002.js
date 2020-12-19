@@ -17,7 +17,7 @@ $(".ae.label.label-primary.fa.fa-gear").text(' ضبط ');
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
 $(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> &nbsp;1 <font color="#595757" class="jfa99">2</font> 3 <font class="jfa99" color="#727A54">&nbsp;4 &nbsp;</font> 5 <font class="jfa88" color="#ff9900">&nbsp;6 &nbsp;</font> 7 <font class="jfa88" color="#ff00ff">&nbsp; 8 &nbsp;</font> 9 <font class="jfa88" color="#5CAD9A">&nbsp; 10 &nbsp;</font> 11 <font class="jfa88" color="#800000">&nbsp; 12 &nbsp;</font> 13 <font class="jfa88" color="#417570">&nbsp; 14 &nbsp;</font>15 &nbsp; </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'); 
-$(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/33.css"></style>`).insertBefore("body")
+$(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/fahd/589b8d1c295f0d3503badead037041365a2e04e5/jfa161.css"></style>`).insertBefore("body")
 $(".dpnl").css('width','310px'); 
 $( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "اهلا وسهلا بكم في شات نجمه الحب سجل معنا عضويه لتحصل على لايكات ولدايه وزخرفه وحفظ بروفايلك وكل عام وانتم بخير سنه سعيده عليكم 2021" ); 
 }); 
