@@ -1,6 +1,7 @@
 if(location.protocol!='https:'){location.protocol='https:';}
   
-$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/z1eojuqf3m10.jpg" >
+$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/1608395367465.jpg
+" >
 <a id="jfa44"target="_blank"type="a"rel="nofollow"href=""class="label-primary">1 </a></div></div><center> <a id="asim99" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a>
 </div></div> <div id="asim1"><a id="asim2"target="_blank"type="a"href="rules.html"style="border-radius: 0 10% 0 0; border-right: 2px solid#a6a6a6;"class="btn minix btn-primary">2</a>
 <a id="asim2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa;"class="btn minix btn-primary">3</a>
