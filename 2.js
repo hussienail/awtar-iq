@@ -8,26 +8,25 @@ $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none
 <a id="asim10"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">5</a>
 <a id="asim10"target="_blank"type="a"href=" "style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">6</a>
 <a id="asim10"target="_blank"type="a""style="border-radius: 0 0 0 10%; border-left: 2px solid#a6a6a6; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">7</a>
-<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa"class="btn minix btn-primary">عاصم68</a>
-<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">عاصم98</a>
-<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">عاصم8</a>
-<a id="hack2"target="_blank"type="a"href="#"style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">عاصم7<center>
+<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa"class="btn minix btn-primary">8</a>
+<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">9</a>
+<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">10</a>
+<a id="hack2"target="_blank"type="a"href="#"style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">11</a> <center>
 `).insertBefore(".nav-tabs")
-$(".ae.label.label-primary.fa.fa-gear").text(عاصم6); 
+$(".ae.label.label-primary.fa.fa-gear").text(' 7'); 
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
-$(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3">1<font color="#595757" class="jfa99">2</font>3 <font class="jfa99" color="#727A54">32</font>4<font class="jfa88" color="#ff9900;>66</font> 5<font class="jfa88" color="#ff00ff">88</font>77<font class="jfa88" color="#5CAD9A">12</font> 99<font class="jfa88" color="#800000>65</font>00<font class="jfa88" color="#417570">54</font>09</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'); 
+$(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> 8 <font color="#595757" class="jfa99">9</font> 10 <font class="jfa99" color="#727A54">&nbsp;11 &nbsp;</font> 12 <font class="jfa88" color="#ff9900">&nbsp; 13 &nbsp;</font> 14 <font class="jfa88" color="#ff00ff">&nbsp; 15 &nbsp;</font> 16<font class="jfa88" color="#5CAD9A">&nbsp; 18 &nbsp;</font> 17 <font class="jfa88" color="#800000">&nbsp; 21 &nbsp;</font> 19 <font class="jfa88" color="#417570">&nbsp; 22 &nbsp;</font> 20 nbsp; </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'); 
 $(`<link rel="stylesheet" href="https://alhaded-com.000webhostapp.com/Master/master.css"></style>`).insertBefore("body")
-
 $(".dpnl").css('width','310px'); 
-$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert(asimmmm); 
-
-$ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2px" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample -</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
+$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "6" ); 
+});
+$ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">6</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
 ` ). insertBefore ( '#d2' );
-$(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span> عاصم5</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');
+$(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span>5</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');
 $('.u-msg.dots').removeClass('dots');
-Tsend_=Tsend;reqlikes=5;Tsend=function(){if(getuser(myid).rep<reqlikes){alert('عاصم3 ');return;}else{Tsend_();}}
-setprofile_=setprofile;reqlikes=5;setprofile=function(){if(getuser(myid).rep<reqlikes){alert('عاصم4');return;}else{setprofile_();}}
+Tsend_=Tsend;reqlikes=5;Tsend=function(){if(getuser(myid).rep<reqlikes){alert('4 ');return;}else{Tsend_();}}
+setprofile_=setprofile;reqlikes=5;setprofile=function(){if(getuser(myid).rep<reqlikes){alert('3');return;}else{setprofile_();}}
 $(".ubnr").remove();
 
 $("div#tlogins button.btn.btn-primary")
@@ -59,10 +58,10 @@ setTimeout(function()
 ,0);
 $('.dpnl').show();
 "data-toggle="tab"data-target="#mic"class="ae fa label label-primary fa-volume-up">&nbsp;</label>`);
-$(`<!--<a class="fl fa fa-image btn ui-corner-all ui-shadow ui-btn ui-btn-inline borderg" style="color:purple;margin:2px;width: 106px;text-align: center;font-size:15px!important;"><span dir="rtl"> (0) </span><span style="font-size: 15px!important;>عاصم2 </span></a>-->
+$(`<!--<a class="fl fa fa-image btn ui-corner-all ui-shadow ui-btn ui-btn-inline borderg" style="color:purple;margin:2px;width: 106px;text-align: center;font-size:15px!important;"><span dir="rtl"> (0) </span><span style="font-size: 15px!important;>2 </span></a>-->
 <a href="" target="_blank" style="width:107px; margin-right: 5px;
 margin-left: 2px;text-align: center;float: right;border-radius: 5px;
-padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" >عاصم1¯</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
+padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" 2</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
 AddMsg_=AddMsg;AddMsg=function(wid,data){data.msg=data.msg.replace(/\u102C/g,"");return AddMsg_(wid,data);}
 
-$('.fr.borderg a').text(' برمجه دوك موبايل¯ ')
+$('.fr.borderg a').text(' 1 ')
