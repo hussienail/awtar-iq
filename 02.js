@@ -21,7 +21,6 @@ $(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main
 $(".dpnl").css('width','310px'); 
 $( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "اهلا وسهلا بكم في شات نجمه الحب سجل معنا عضويه لتحصل على لايكات ولدايه وزخرفه وحفظ بروفايلك وكل عام وانتم بخير سنه سعيده عليكم 2021" ); 
 }); 
-
 ` ). insertBefore ( '#d2' );
 $(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span>ط§ط¯ط§ط±ط© ط¨ظٹط§ظ†ط§طھ ط§ظ„ظ…ظˆط§ظ‚ط¹</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');
 $('.u-msg.dots').removeClass('dots');
