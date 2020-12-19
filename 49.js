@@ -18,9 +18,15 @@ $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
 $(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3">   ● · مع تمنياتنا للجميع بـ أطيب الاوقات <font color="#595757" class="jfa99">قريبا</font>  ● · ‫أفضل أدارية لهذا الأسبوع · ● <font class="jfa99" color="#727A54">&nbsp;قريبا &nbsp;</font> ● · مبدعة الحائط لهذا الأسبوع · ● <font class="jfa88" color="#ff9900">&nbsp; قريبا  &nbsp;</font> ● · مبدع الحائط لهذا الأسبوع · ● <font class="jfa88" color="#ff00ff">&nbsp; قريبا  &nbsp;</font> ● · ‫أفضل زائرة لهذا الأسبوع · ●<font class="jfa88" color="#5CAD9A">&nbsp; قريبا &nbsp;</font> ● · ‫أفضل زائر لهذا الأسبوع · ● <font class="jfa88" color="#800000">&nbsp; قريبا &nbsp;</font> ● · ‫أفضل سوبره لهذا الأسبوع · ● <font class="jfa88" color="#417570">&nbsp; نــجـمـه الـحـب &nbsp;</font> أهلا وسهلا بكم في شات </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
 $(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/33.css"></style>`).insertBefore("body")
+$('.nav-tabs').addClass('fl').css('width','100%');
+$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
+$(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> &nbsp;ط£ظ‡ظ„ط§ ظˆط³ظ‡ظ„ط§ ط¨ظƒظ… ظپظٹ ط´ط§طھ <font color="#595757" class="jfa99">â™¥ || ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ€ظ„ظ€ط¬ظ€ظ€ظˆط§ظ„ || â™¥</font> â—ڈ آ· â€«ط£ظپط¶ظ„ ط³ظˆط¨ط±ظ‡ ظ„ظ‡ط°ط§ ط§ظ„ط£ط³ط¨ظˆط¹ آ· â—ڈ <font class="jfa99" color="#727A54">&nbsp;ظ‚ط±ظٹط¨ط§ظ‹ â™¥ &nbsp;</font> â—ڈ آ· â€«ط£ظپط¶ظ„ ط²ط§ط¦ط± ظ„ظ‡ط°ط§ ط§ظ„ط£ط³ط¨ظˆط¹ آ· â—ڈ <font class="jfa88" color="#ff9900">&nbsp;ظ‚ط±ظٹط¨ط§ظ‹ &nbsp;</font> â—ڈ آ· â€«ط£ظپط¶ظ„ ط²ط§ط¦ط±ط© ظ„ظ‡ط°ط§ ط§ظ„ط£ط³ط¨ظˆط¹ آ· â—ڈ <font class="jfa88" color="#ff00ff">&nbsp; ظ‚ط±ظٹط¨ط§ظ‹ &nbsp;</font> â—ڈ آ· ظ…ط¨ط¯ط¹ ط§ظ„ط­ط§ط¦ط· ظ„ظ‡ط°ط§ ط§ظ„ط£ط³ط¨ظˆط¹ آ· â—ڈ <font class="jfa88" color="#5CAD9A">&nbsp; ظ‚ط±ظٹط¨ط§ظ‹ &nbsp;</font> â—ڈ آ· ظ…ط¨ط¯ط¹ط© ط§ظ„ط­ط§ط¦ط· ظ„ظ‡ط°ط§ ط§ظ„ط£ط³ط¨ظˆط¹ آ· â—ڈ <font class="jfa88" color="#800000">&nbsp; ظ‚ط±ظٹط¨ط§ظ‹ &nbsp;</font> â—ڈ آ· â€«ط£ظپط¶ظ„ ط£ط¯ط§ط±ظٹط© ظ„ظ‡ط°ط§ ط§ظ„ط£ط³ط¨ظˆط¹ آ· â—ڈ <font class="jfa88" color="#417570">&nbsp; ظ‚ط±ظٹط¨ط§ظ‹ &nbsp;</font> â—ڈ آ· ظ…ط¹ طھظ…ظ†ظٹط§طھظ†ط§ ظ„ظ„ط¬ظ…ظٹط¹ ط¨ظ€ ط£ط·ظٹط¨ ط§ظ„ط§ظˆظ‚ط§طھ&nbsp; </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'); 
+$(`<link rel="stylesheet" href="https://alhaded-com.000webhostapp.com/Master/master.css"></style>`).insertBefore("body")
+
 $(".dpnl").css('width','310px'); 
+$( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "ط§ظ‡ظ„ط§ ظˆط³ظ‡ظ„ط§ ط¨ظƒظ… ظپظٹ ط´ط§طھ ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ„ط¬ظˆط§ظ„ â‌¤ï¸ڈ ط³ط¬ظ„ ط¹ط¶ظˆظٹط© طھط­طµظ„ ط¹ظ„ظ‰ 1000 ظ„ط§ظٹظƒ ظˆط²ط®ط±ظپط© :: ط·ط±ظٹظ‚ط© ط§ظ„طھط³ط¬ظٹظ„ ط§ط¶ط؛ط· ط¹ظ„ظ‰ ط®ظٹط§ط± (طھظ€ط³ط¬ظٹظ€ظ„ ) (ط§ظƒطھط¨ ط§ط³ظ…ظƒ ط§ظ„ظ…ط³طھط¹ط§ط± + ظƒظ„ظ…ط© ط§ظ„ظ…ط±ظˆط± ) ظˆط¨ط¹ط¯ظ‡ط§ ط§ط¶ط؛ط· ط¯ط®ظˆظ„" ); 
 });
-$ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample"> اهلا وسهلا بكم في شات نجمه الحب سجل عضويه وتحصل على زخرفه وهديه ولايكات 3000</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
+$ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">- ظ…ظ†ظ€ظ€ظˆط±ظٹظ†ظژ ط¬ظ…ظٹط¹ط§ظ‹ : ط´ط¢طھ ط§ط­ظ€ظ€ظ€ط¨ظƒ ظ„ظ„ط¬ظˆط§ظ„ -</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
 ` ). insertBefore ( '#d2' );
 $(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span>ط§ط¯ط§ط±ط© ط¨ظٹط§ظ†ط§طھ ط§ظ„ظ…ظˆط§ظ‚ط¹</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');
 $('.u-msg.dots').removeClass('dots');
@@ -48,7 +54,7 @@ $("div#tlogins button.btn.btn-primary")
         0 < a.length && a.remove()
     }, 0), $(".dpnl")
     .append(` <div id="mic" style="height: 100%;width:100%;" class="break light tab-pane border"><center></div><center></div>`), $('#d0')
-    .append(`<label title="صاحب الموقع"href="#"onclick="$('.pnhead').text($(this).attr('title'));
+    .append(`<label title="Omar  - Ranea"href="#"onclick="$('.pnhead').text($(this).attr('title'));
 hl($(this),'primary');
 setTimeout(function()
 	{
@@ -57,10 +63,10 @@ setTimeout(function()
 ,0);
 $('.dpnl').show();
 "data-toggle="tab"data-target="#mic"class="ae fa label label-primary fa-volume-up">&nbsp;</label>`);
-$(`<!--<a class="fl fa fa-image btn ui-corner-all ui-shadow ui-btn ui-btn-inline borderg" style="color:purple;margin:2px;width: 106px;text-align: center;font-size:15px!important;"><span dir="rtl"> (0) </span><span style="font-size: 15px!important;>2 </span></a>-->
+$(`<!--<a class="fl fa fa-image btn ui-corner-all ui-shadow ui-btn ui-btn-inline borderg" style="color:purple;margin:2px;width: 106px;text-align: center;font-size:15px!important;"><span dir="rtl"> (0) </span><span style="font-size: 15px!important;>ط¹ظ…ط± ط§ظ„ط­ط¯ظٹط¯ </span></a>-->
 <a href="" target="_blank" style="width:107px; margin-right: 5px;
 margin-left: 2px;text-align: center;float: right;border-radius: 5px;
-padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" 2</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
+padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" >طھطµظ…ظٹظ…:  ط¹ظ…ط± ط§ظ„ط­ط¯ظٹط¯</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
 AddMsg_=AddMsg;AddMsg=function(wid,data){data.msg=data.msg.replace(/\u102C/g,"");return AddMsg_(wid,data);}
 
-$('.fr.borderg a').text(' Programmed by dook mobile  ')
+$('.fr.borderg a').text(' ط¹ظ…ط± ط§ظ„ط­ط¯ظٹط¯ ')
