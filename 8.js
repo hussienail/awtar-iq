@@ -9,7 +9,7 @@ $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none
 <a id="asim10"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">الراديو</a>
 <a id="asim10"target="_blank"type="a"href=" "style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">تطبيق</a>
 <a id="asim10"target="_blank"type="a""style="border-radius: 0 0 0 10%; border-left: 2px solid#a6a6a6; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">ختصارات</a>
-<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa"class="btn minix btn-primary">8</a>
+<a id="hack2"target="_blank"type="a"href=""style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa"class="btn minix btn-primary">المدونه</a>
 <a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">الأبراج</a>
 <a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">وظائف</a>
 `).insertBefore(".nav-tabs")
@@ -23,11 +23,6 @@ $( "div#l1 button.btn.btn-primary" ).bind( "click", function() { alert( "6" );
 });
 $ ( ` <center> <div style =" width: 100?ط› height: 0%! importantط› "id =" as "margin: 2pxط›" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">6</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> 
 ` ). insertBefore ( '#d2' );
-$(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span>5</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');
-$('.u-msg.dots').removeClass('dots');
-Tsend_=Tsend;reqlikes=5;Tsend=function(){if(getuser(myid).rep<reqlikes){alert('4 ');return;}else{Tsend_();}}
-setprofile_=setprofile;reqlikes=5;setprofile=function(){if(getuser(myid).rep<reqlikes){alert('3');return;}else{setprofile_();}}
-$(".ubnr").remove();
 
 $("div#tlogins button.btn.btn-primary")
     .click(function () {
@@ -49,9 +44,9 @@ $("div#tlogins button.btn.btn-primary")
         0 < a.length && a.remove()
     }, 0), $(".dpnl")
     .append(` <div id="mic" style="height: 100%;width:100%;" class="break light tab-pane border"><center></div><center></div>`), $('#d0')
-    .append(`<label title="صاحب الموقع"href="#"onclick="$('.pnhead').text($(this).attr('title'));
+    .append(`<label title="صاحب الموقع"href="#"onclick="$('https://i.ibb.co/7y9d97H/09.jpg').text($(this).attr('title'));
 hl($(this),'primary');
-setTimeout(function(https://i.ibb.co/7y9d97H/09.jpg)
+setTimeout(function()
 	{
 	$('#mic').scrollTop(0);
 }
