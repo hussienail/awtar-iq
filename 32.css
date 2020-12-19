@@ -535,3 +535,33 @@ span.minix.badge.border,span.bwall.minix.badge.border,span.brooms.minix.badge.bo
 h3.popover-title,.fa-commenting-o::before,.fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg.fa-comment::before,.fa-envelope-o::before,.fa-diamond::before,.fa-search::before,.fa-ban::before,.fa-ban::before,.fa-user-times::before{display:none}
 .ae.fa.label.label-primary.fa-users.btnClAlGr:before{content:"\f1d1"}
 .ae.fa.label.label-primary.fa-users:before{content:""}
+
+1#asim_1
+ 
+a#hack3:hover{color:#ad0f09!important;transform:rotate(0deg)}
+.cp{background-color:#4ba34b!important;color:white!important}
+.redit{background-color:#a3822e!important;color:white!important}
+.pmsg{background-color:#a55183!important;color:white!important}
+
+
+  border-bottom:#1565c0;
+  width: 26%;
+  height: 30px;
+  /* border-top-style:double!important;*/
+  /* border-style:double!important;*/
+  border-radius:8px!important;
+  margin-top:-185px;
+  margin-left:180px;
+  background:#4aa14a!important;
+  border-radius: 5px 99px 6px!important;
+  margin-top: -970px;
+  margin-left: -259px;
+  background: #1565c0!important;
+  padding: 06px 0px 0px;
+  border-left: 5px solid#ffffff00!important;
+  border-right: 5px #ffffff00 solid!important;
+  transform:rotate(-90deg);
+  color: #ffffff;
+  font: menu;
+  }
+.ae.fa.chats.label.label-primary.fa-comment:before{content:"\f1d8";display:inline!important}
