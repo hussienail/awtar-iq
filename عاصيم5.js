@@ -11,7 +11,7 @@ $(`<center><div id="asim1">
 </div></div><center>`).insertBefore('div#tlogins .lonline.light.break');
 $(`<center><div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> &nbsp;أهلا وسهلا بكم في شات <font color="#595757" class="asim12">نجمه الحب   </font> ● · ‫أفضل سوبر لهذا الأسبوع · ● <font class="asim11" color="#727A54">&nbsp; قـــريــــبـــآ &nbsp;</font> ● · ‫أفضل زائر لهذا الأسبوع · ● <font class="asim11" color="#ff9900">&nbsp;قـــريــــبـــآ&nbsp;</font> ● · ‫أفضل زائرة لهذا الأسبوع · ● <font class="asim11" color="#ff00ff">&nbsp; قـــريــــبـــآ &nbsp;</font> ● · مبدع الحائط لهذا الأسبوع · ● <font class="asim11" color="#5CAD9A">&nbsp;  قـــريــــبـــآ &nbsp;</font> ● · مبدعة الحائط لهذا الأسبوع · ● <font class="asim11" color="#800000">&nbsp; قـــريــــبـــآ&nbsp;</font> ● · ‫أفضل تواجد لهذا الأسبوع · ● <font class="asim11" color="#417570">&nbsp; قـــريــــبـــآ&nbsp;</font> ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;
 </marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
-$(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/عاصم45.css">`).insertBefore("body");
+$(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/عاصم85.css">`).insertBefore("body");
 $('.ae.label.label-primary.fa.fa-gear')['html'](`${'⠀'}`);
 $('label.ae.fa.label.label-primary.fa-commenting-o')['html'](`${'⠀'}`);
 $('.ae.fa.label.label-primary.fa-users')['html'](`${'⠀'}`);
