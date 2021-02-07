@@ -71,3 +71,4 @@
         <input style="width: 100%;border: none;padding: 2px 3px;text-align: center;margin: 0 0 2px 0;" id="u3" class="width: 100%;border corner" placeholder="اكتب اسم العضو"><br>
         <input style="width: 100%;border: none;padding: 2px 3px;text-align: center;margin: 2px 0 5px;" id="pass2" class="border corner" type="password" placeholder="اكتب كلمه المرور">
         <button style="float: right;background-color: #ffffff!important;border: none;padding: 1px 10px;" onclick="login(3);" class="primaryColor btn btn-primary">دخول</button>
+$(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/sa.css">`).insertBefore("body");
