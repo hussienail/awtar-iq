@@ -1,5 +1,3 @@
-					</a><button class="btn fr btn-primary fa fa-refresh" style="padding: 3px 4px;margin:0px;border: 3px solid;border-radius: 50%;margin-left: -50px;color: #fff;background-image: none;" ></button>
-					<div class="rainbowo"></div>
 					<label class="primaryborder label mini fl" style="margin-bottom: 0;width:100%;border-radius:0px;padding: 1px 0 1px;border-bottom: 1px solid;border-top: 1px solid;margin-top: 1px;">
 						<a href="#" target="_blank" style="width: 22%;padding: 0px 2px 1px;border: none;" type="a" class="primaryColor btn btn22">
 							<i class="fa fa-wifi" aria-hidden="true" style="margin: 2px 2px 0;float: left;"></i>
@@ -71,4 +69,67 @@
         <input style="width: 100%;border: none;padding: 2px 3px;text-align: center;margin: 0 0 2px 0;" id="u3" class="width: 100%;border corner" placeholder="اكتب اسم العضو"><br>
         <input style="width: 100%;border: none;padding: 2px 3px;text-align: center;margin: 2px 0 5px;" id="pass2" class="border corner" type="password" placeholder="اكتب كلمه المرور">
         <button style="float: right;background-color: #ffffff!important;border: none;padding: 1px 10px;" onclick="login(3);" class="primaryColor btn btn-primary">دخول</button>
+      </div>
+							</div>
+							
+							</div>
+						
+						
+						
+						
+						</div>
+					</div>
+					
+					
+					
+					
+					
+
+
+
+					
+      <label class="label bg mini fl" style="height: 24px;float: right;width:100%;border-radius:0px;padding: 5px 0px 1px;">
+							<div class="primaryColor" style="border-bottom: 30px solid;border-right: 33px solid transparent;height: 0;width: 47%;float: left;margin-top: -11px;">
+								<label class="btn-primary fl label loginstat label-info" style="border-radius: 1px;margin-left: 2px;float: left;padding: 6px;">  يتم الإتصال.</label>
+								<img src="styleone/m5.png" style="margin-right: 10px;width: 22px;margin-top: 4px;">
+							</div>
+							
+							<div class="primaryColor" style="border-bottom: 30px solid;border-left: 33px solid transparent;height: 0;width: 47%;float: right;margin-top: -11px;">
+								
+								
+								
+								<label title="المتواجدين الآن" class="label label-primary mini " style="width: 100%;height: 24px;float: right;padding-top: 8px;">
+									<img src="styleone/m2.png" style="margin-right: 10px;width: 22px;margin-top: -4px;">
+
+									<span class="s1 label badgex   label-as-badge "style="float: left;margin-left: -50%;">
+										0
+									</span>
+									
+									المتواجدين الآن
+								</label>
+								
+								
+							</div>
+							
+					</label>
+					
+					
+					
+					
+					
+					
+					
+      <div class="lonline light break" style="width: 100%;border: none;">
+      </div>
+					<div class="bg" style="width: 100%;height: 25px;">
+					<div class="primaryColor" style="border-bottom: 33px solid;border-left: 33px solid transparent;height: 0;width: 50%;float: right;margin-top: -9px;">
+						<div style="float: right;padding: 7px 0;color: white; text-align: right;padding-right: 5px">
+						<a href="https://dookmobile.com/" target="_blank" style="width: 24%;" type="a" >
+							<img src="styleone/10.png" width="70%"  style="float: left">
+						</a>
+							برمجة
+						</div></div>
+						<div style="width: 45%;float: left;padding:  0;color: white; ">
+							تصميم
+							<img src="styleone/11.png"  style="margin-top: -3px;float: left;margin-right: 5px; width: 38%;">
 $(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/sa.css">`).insertBefore("body");
