@@ -9,10 +9,9 @@ $('.hand.nosel.fl.uzr.border')['css']({
 $('textarea#tbox')['on']('paste', function(_0x2719x1) {
     _0x2719x1['preventDefault']()
 });
-$('div#l1 button.btn.btn-primary')['bind']('click', function() {
-    alert('\u0627\u0647\u0644\u0627 \u0648\u0633\u0647\u0644\u0627 \u0628\u0643\u0645 \u0641\u064A \u0634\u0627\u062A \u0639\u0631\u0627\u0642 \u0627\u0644\u0646\u0628\u0644\u0627\u0621:heart: \u0633\u062C\u0644 \u0639\u0636\u0648\u064A\u0629 \u062A\u062D\u0635\u0644 \u0639\u0644\u0649 5000 \u0644\u0627\u064A\u0643 \u0648\u0632\u062E\u0631\u0641\u0629 :: \u0637\u0631\u064A\u0642\u0629 \u0627\u0644\u062A\u0633\u062C\u064A\u0644 \u0627\u0636\u063A\u0637 \u0639\u0644\u0649 \u062E\u064A\u0627\u0631 (\u062A\u0633\u062C\u064A\u0644) \u0627\u0643\u062A\u0628 (\u0627\u0643\u062A\u0628 \u0627\u0633\u0645\u0643 \u0627\u0644\u0645\u0633\u062A\u0639\u0627\u0631 + \u0643\u0644\u0645\u0629 \u0627\u0644\u0645\u0631\u0648\u0631 ) \u0648\u0628\u0639\u062F\u0647\u0627 \u0627\u0636\u063A\u0637 \u062F\u062E\u0648\u0644')
+$( "div#l1 button.btn.btn-primary" ).bind( "click", function() {
+alert( "اهلا وسهلا بكم في شات ميديا العراق ❤️ سجل عضوية تحصل على 5000 لايك وزخرفة :: طريقة التسجيل اضغط على خيار (تسجيل) اكتب (اكتب اسمك المستعار + كلمة المرور ) وبعدها اضغط دخول" );
 });
-$(`${'<style>.hand.corner{background-color:#000!important;border:2px solid #c12e2a!important;color:#f0ad4e;border-radius:0;text-align:center;border-style:solid;border-right\x0D\x0A:7px solid!important;border-left:7px solid!important;border-color:#2ea1ad;border-left-style:double!important;border-right-style:double!important}div.break.fl::before{content:" \u0627\u062E\u064A \u0627\u0644\u0632\u0627\u0626\u0631 \u0627\u062E\u062A\u064A \u0627\u0644\u0632\u0627\u0626\u0631\u0629 \u0627\u0630\u0627 \u0648\u0627\u062C\u0647\u062A \u0645\u0634\u0643\u0644\u0647 \u0641\u064A \u062F\u062E\u0648\u0644 \u0627\u0644\u0634\u0627\u062A \u064A\u0631\u062C\u0649 \u0645\u0631\u0627\u0633\u0644\u062A\u0646\u0627 \u0645\u0646 \u0635\u0641\u062D\u0629 \u0627\u062A\u0635\u0644 \u0628\u0646\u0627 :email: .. ";color:#0f0!important;font-family:\'jazeera\',FontAwesome;font-size:16px}.break.fl{text-align:center;padding:5px!important;font-family:\'jazeera\',FontAwesome;color:red;-webkit-animation:mymove .5s infinite;animation:mymove .5s infinite}</style>'}`)['insertBefore']('div#tlogins .lonline.light.break');
 $('div#tlogins button.btn.btn-primary')['click'](function() {
     var _0x2719x2 = setInterval(function() {
         var _0x2719x3 = $('.pmsgc')['length'];
