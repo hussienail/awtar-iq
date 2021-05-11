@@ -599,18 +599,19 @@ div#l2 button.btn.btn-primary,div#l1 button.btn.btn-primary,div#l3 button.btn.bt
     margin-top: 1px;
 }
 .broadcasters>div>.prod {
-position: relative;
-    width: 45px;
-    height: 45px;
-    border-radius: 50%;
-    background-color: rgb(0 123 255 / 0%);
+    position: relative;
+    background-color: rgb(57 107 144);
     color: #000;
-    display: inline-block;
-    font-size: 1.1rem;
-    margin: 0 .3rem;
-    border: 3px solid #8d367199;
-    cursor: pointer;
-    vertical-align: middle;
-    text-align: center;
+    border: 3px solid #b7a52799;
     border-radius: 3px;
+}
+.fa-microphone:before {
+    position: absolute;
+    content: "";
+    top: 0px;
+    margin-top: 1px;
+    margin-left: -20px;
+    width: 40px;
+    height: 28px;
+    background: url(https://g.top4top.io/p_1920vm3h51.gif)100% 100% / 100% 100% no-repeat !important;
 }
