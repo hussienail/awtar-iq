@@ -122,6 +122,15 @@ a#عاصم {
   border-radius:0;
 }
 
+.ae.label.label-primary.fa.fa-tv {
+padding: 7px 10px 5px;
+    margin-left: -4px!important;
+    border-radius: 0 3px 3px 0;
+    border-style: solid;
+    border-right: 4px solid;
+    border-right-style: ridge;
+}
+
 .ae.fa.label.fa-commenting-o.label-warning {
   padding:7px 0 5px 9px;
   margin-left:-4px !important;
