@@ -966,7 +966,7 @@ span.fr {
   height:20px;
   color:#fff;
   border-left:2px solid#8aeaec;
-  background-color:#008e91;
+  background-color:#ba5d82;
   border-right:2px solid #f7d322;
   border-radius:0 0 1px 0;
   border-bottom:1px solid #f7d322;
@@ -1051,7 +1051,7 @@ label.asim.ae.fa.label.label-primary {
 }
 
 .cp {
-  background-color:#E31111 !important;
+  background-color:#11c6e3 !important;
   color:white !important;
 }
 
@@ -1061,7 +1061,7 @@ label.asim.ae.fa.label.label-primary {
 }
 
 .pmsg {
-  background-color:#E31111 !important;
+  background-color:#ba5d82 !important;
   color:white !important;
 }
 
@@ -2055,7 +2055,7 @@ label.asim.ae.fa.label.label-primary {
 }
 
 a.btn.minix.fa.fa-comment:before {
-  content:"أضافة تعليق";
+  content:"تعليق";
   display:inline !important;
   padding:2px 0 0 2px;
 }
