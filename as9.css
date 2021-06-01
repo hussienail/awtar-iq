@@ -1140,6 +1140,36 @@ a.btn.minix.btn-primary.fa.fa-heart.fr {
     margin-left: 3px;
 }
 
+
+#player #controls-zone #play-pause-zone #btnPlay, #player #controls-zone #play-pause-zone #btnStop, #player #controls-zone #play-pause-zone #loading {
+    width: 18px;
+    height: 18px;
+    margin: 1px 0 0 98px;
+    background: #20474e;
+    padding: 3px;
+    border-radius: 21px;
+    border-color: #ba5d82;
+    background-image: linear-gradient(to bottom,#ba5d82 0,#ba5d82 100%);
+}
+#player #controls-zone .like-button-zone #like-button, #player #controls-zone .like-button-zone #dislike-button, #player #controls-zone #play-pause-zone #btnPlay, #player #controls-zone #play-pause-zone #btnStop, #player #controls-zone #play-pause-zone #loading, #player #buttons-zone .section #bottom-zone #volume-zone #slider-zone #slider .ui-slider-range.ui-widget-header.ui-corner-all.ui-slider-range-min, #player #buttons-zone .section #bottom-zone #volume-zone #slider-zone:hover #slider.ui-slider.ui-slider-horizontal.ui-widget.ui-widget-content.ui-corner-all .ui-slider-handle.ui-state-default.ui-corner-all {
+    background-color: #000;
+}
+.play-pause-button svg {
+    width: 20px;
+    height: 20px;
+    margin-left: -1px;
+    margin-top: -1px;
+}
+.play-pause-button svg path {
+    fill: #fff!important;
+}
+#player #controls-zone .like-button-zone #like-button svg path, #player #controls-zone .like-button-zone #dislike-button svg path, .play-pause-button svg path {
+    fill: #000!important;
+}
+#player #radioStream {
+    display: none;
+}
+
 a.btn.minix.btn-primary.fa.fa-heart.fr {
     border-left: 1px solid #d3d3d3;
     border-top: 1px solid #d3d3d3;
