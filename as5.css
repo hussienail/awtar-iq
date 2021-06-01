@@ -1070,45 +1070,55 @@ label.asim.ae.fa.label.label-primary {
 99999999999999999999999999999999999999999999999asim99999999999999999999999999999999999999999999999999999999
 
 
-
-
-
-
-.label.ae.fa.chats.label.fa-comment.label-warning:before {
-  content:"\f0e0";
-  display:inline !important;
+div#tlogins::-webkit-scrollbar-track {
+  background:#fff;
+  border:65px none #fff;
+  border-radius:34px;
 }
-
-.ae.fa.chats.label.label-primary.fa-comment:before {
-  content:"\f0e0";
-  display:inline !important;
+#yahay01 {
+    font-family: 'fanni';
+    padding: 1px;
+    width: 65%;
+    height: 20px;
+    color: #FFF;
+    border-left: 2px solid#dc8181;
+    position: inherit!important;
+    border-radius: 0;
+    background: linear-gradient( 
+163deg
+,#46919f 0%,#024653 100%)!important;
 }
-
-.fa-gear:before,
-.fa-cog:before {
-  content:"\f085";
+font.yahay21 {
+    border: 1px dotted#f0ad4e;
+    background-color: #bd0000;
+    padding: 1px 10px 3px 4px;
+    color: #fff;
+    border-radius: 1px;
+    text-align: center;
+    border-style: solid;
+    border-right: 7px solid;
+    border-left: 7px solid;
+    border-color: #fcf8e3;
+    border-left-style: double;
+    border-right-style: double;
+    font-family: jazeera,FontAwesome;
+    font-size: 13px!important;
 }
-
-a.btn.minix.fa.fa-comment:before {
-  content:"تعليق";
-  display:inline !important;
-  padding:2px 0 0 2px;
-}
-
-.fa-send:before,
-.fa-paper-plane:before {
-  content:"\f122";
-  padding:0 2px 0 0;
-}
-
-.fa-share-alt:before {
-  content:"\f0c5";
-}
-
-button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary {
-  width:30px;
-}
-
+font.yahay20 {
+    background-color: #bf0600;
+    padding: 1px 0 2px;
+    color: #fff;
+    border-radius: 1px;
+    border: 1px dotted#ffffff;
+    text-align: center;
+    border-style: solid;
+    border-right: 7px solid;
+    border-left: 7px solid;
+    border-color: #fcf8e3;
+    border-left-style: double;
+    border-right-style: double;
+    font-family: jazeera,FontAwesome;
+    font-size: 13px!important;
 }
 
 a.btn.minix.btn-primary.fa.fa-heart.fr {
