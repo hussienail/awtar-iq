@@ -1,0 +1,28 @@
+a.label.label-primary.fl {
+border-top-left-radius: 0.13rem;
+    border-top-right-radius: 0.13rem;
+    margin: 0;
+    position: relative;
+}
+button.btn.fr.btn-success.fa.fa-refresh {
+padding: 4px 5px;
+    background-color: rgb(0 0 0 / 0%)!important;
+    background-image: none;
+    border: 2px solid transparent;
+    margin-top: -3px;
+    border-radius: 50px;
+}
+button.ssss.btn.fr.btn-warning.fa.fa-paint-brush {
+padding: 4px 5px;
+    background-color: rgb(0 0 0 / 0%)!important;
+    background-image: none;
+    border: 2px solid transparent;
+    margin-top: -3px;
+    border-radius: 50px;
+
+}
+a.label.label-primary.fl img.fl {
+margin-top: -3px;
+    border-radius: 55px 50px;
+    border: 2px solid#ffffff;
+}
